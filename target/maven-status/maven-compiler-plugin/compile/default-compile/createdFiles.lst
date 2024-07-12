@@ -1,0 +1,8 @@
+seleniumframeworklearning/pageobjects/CartPage.class
+seleniumframeworklearning/pageobjects/LandingPage.class
+seleniumframeworklearning/abstractcomponents/AbstractComponent.class
+seleniumframeworklearning/resources/ExtentReporter.class
+seleniumframeworklearning/pageobjects/ProductCatalogue.class
+seleniumframeworklearning/pageobjects/OrderPage.class
+seleniumframeworklearning/pageobjects/CheckoutPage.class
+seleniumframeworklearning/pageobjects/ConfirmationPage.class
