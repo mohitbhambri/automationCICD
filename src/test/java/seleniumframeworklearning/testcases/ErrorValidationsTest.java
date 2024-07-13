@@ -13,7 +13,7 @@ public class ErrorValidationsTest extends BaseTest{
 	@Test(groups= {"ErrorHandling"}, retryAnalyzer = Retry.class)
 	public void loginErrorValidation() {
 		landingPage.loginApplication("mohitbhambri0@gmail.com", "Neh@1994");
-		AssertJUnit.assertEquals("Incorrect email password.", landingPage.getErrorMessage());
+		AssertJUnit.assertEquals("Incorrect email or password.", landingPage.getErrorMessage());
 	}
 
 }
